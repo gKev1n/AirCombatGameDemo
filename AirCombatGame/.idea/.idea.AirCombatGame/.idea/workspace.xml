@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df9d7689-88ad-4d0a-a771-cdb73e652c64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AirCombatGame/.idea/.idea.AirCombatGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AirCombatGame/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AirCombatGame/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AirCombatGame/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AirCombatGame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AirCombatGame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AirCombatGame/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AirCombatGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AirCombatGame/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/TextureSetting.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/TextureSetting.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/STHUPO.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/STHUPO.TTF.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/STXINGKA.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/STXINGKA.TTF.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/0_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/0_0.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/0_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/0_1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/0_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/0_2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/0_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/0_3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/1_0.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/1_1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/1_2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/1_3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/2_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/2_0.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/2_1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/2_2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/2_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/2_3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/3_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/3_0.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/3_1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/3_2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/3_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Picture/Player/3_3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/Dialog.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/Dialog.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/LevelsView.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/LevelsView.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/PropertyItem.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/PropertyItem.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/SelectedHeroView.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/SelectedHeroView.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/StartView.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/StartView.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/StrengthenView.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefab/StrengthenView.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Button.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/LOGO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/LOGO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Login_bg.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/UI1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/UI1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/baoshi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/baoshi.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/dsf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/dsf.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/gfgf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/gfgf.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/img_bg_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/img_bg_logo.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/kuang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/kuang.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/levep.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/levep.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/move.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/move.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/player.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/sd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/sd.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/ui_loading_Background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/ui_loading_Background.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/ui_new_bg_png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/ui_new_bg_png.png.meta" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LaunchGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/TextureSetting.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Editor/TextureSetting.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hHJ8juuSdMHloi3IyvyN5QfJLA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9d7689-88ad-4d0a-a771-cdb73e652c64" name="Default Changelist" comment="" />
+      <created>1599661929906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599661929906</updated>
+      <workItem from="1599661954278" duration="561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
